@@ -10,9 +10,9 @@ export default function PricingPage() {
         Ir a <Link href="/">Home</Link>
       </h1>
 
-      <p classname={"description"}>Bienvenidos a la Pricing Page</p>
+      <p className={"description"}>Bienvenidos a la Pricing Page</p>
       <p>
-        <code classname={"code"}>pages/pricing/index.jsx</code>
+        <code className={"code"}>pages/pricing/index.jsx</code>
       </p>
     </MainLayout>
   );
