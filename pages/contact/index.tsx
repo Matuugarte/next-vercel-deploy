@@ -11,9 +11,9 @@ export default function ContactPage() {
         Ir a <Link href="/">Home</Link>
       </h1>
 
-      <p classname={"description"}>Bienvenidos a la Contact Page</p>
+      <p className={"description"}>Bienvenidos a la Contact Page</p>
       <p>
-        <code classname={"code"}>pages/contact/index.jsx</code>
+        <code className={"code"}>pages/contact/index.jsx</code>
       </p>
     </MainLayout>
   );
